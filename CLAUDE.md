@@ -47,3 +47,9 @@ content/
   エディターが明確に分離すること
 - 下書きが完成したら `content/drafts/` から `content/published/` への移動は、実際に note に投稿した後に行う
 - 収益化に関する数値目標・価格改定は `content/strategy.md` を更新して記録する
+
+## 別の運営チーム（このリポジトリ内の別プロジェクト）
+
+このリポジトリには、YouTubeチャンネル「R×R camper's channel」の運営チームも同居しています。
+note チームとは独立した設定・ディレクトリ（`youtube/`）で運用するため、詳細は
+[`youtube/CLAUDE.md`](./youtube/CLAUDE.md) を参照してください。

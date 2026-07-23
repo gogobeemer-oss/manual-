@@ -26,3 +26,7 @@ content/templates/     記事テンプレート
 content/drafts/        下書き
 content/published/     投稿済み記事のアーカイブ
 ```
+
+## その他の運営チーム
+
+- YouTubeチャンネル「R×R camper's channel」の運営チーム: [`youtube/CLAUDE.md`](./youtube/CLAUDE.md)
