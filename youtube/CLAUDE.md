@@ -31,10 +31,11 @@
 
 ```
 youtube/
-  CLAUDE.md            このファイル（チーム概要・運用方針）
-  channel-strategy.md   チャンネルアナリティクス・キラーコンテンツ分析・実績記録
-  video-plans/          動画企画書（/yt-new-video-plan の出力先）
-  published/            公開済み動画の実績アーカイブ（振り返り用）
+  CLAUDE.md               このファイル（チーム概要・運用方針）
+  channel-strategy.md      チャンネルアナリティクス・キラーコンテンツ分析・実績記録
+  existing-assets-plan.md  既存投稿済み動画のテコ入れ施策・実行チェックリスト
+  video-plans/             動画企画書（/yt-new-video-plan の出力先）
+  published/               公開済み動画の実績アーカイブ（振り返り用）
 ```
 
 ## 運用ルール
